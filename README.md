@@ -1,3 +1,24 @@
+
+Let's Chat 是一个类似 Slack 的团队聊天软件，基于 Node.js 和 MongoDB 开发，易于发布，适合中小型团队，支持 LDAP/Kerberos 认证，提供 REST 风格 API 和 XMPP 支持。
+
+特性：
+
+BYOS 独立软件，可安装到公司内部
+支持 LDAP/Kerberos 认证
+XMPP 多用户聊天
+多个聊天室
+支持桌面提醒
+支持使用 @ 提到某人
+可以在聊天中嵌入图片
+支持文件上传
+好友功能
+RESTful API
+提供聊天历史记录
+使用 MIT 宽松许可证
+可直接安装到本地，或者通过 Docker, Vagrant 和 Heroku 安装。
+
+
+
 ![Let's Chat](http://i.imgur.com/0a3l5VF.png)
 
 ![Screenshot](http://i.imgur.com/C4uMD67.png)
